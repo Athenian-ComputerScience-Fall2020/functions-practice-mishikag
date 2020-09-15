@@ -11,4 +11,5 @@ input_two= int(input("enter another number "))
 def multiplier():
   return input_one * input_two
 
-print(multiplier())
+output_num = multiplier()
+print(output_num)

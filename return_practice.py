@@ -26,6 +26,10 @@ print(output_num)
 
 '''
 Add prediction(s) here:
+function math1 returns 55
+function math1 returns 45
+function math1 returns 250
+
 will output 45
 
 '''
